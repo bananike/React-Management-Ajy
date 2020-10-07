@@ -1,7 +1,9 @@
-body { text-align: center; background-color: #282c34; font-size: calc(10px + 2vmin); color: #fff; }
+body { text-align: center; background-color: #282c34; font-size: calc(10px + 1vmin); color: #f0f0eb; font-family: 'NanumSquare', sans-serif; }
 
-.App { display: flex; align-items: center; justify-content: center; }
+.App { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; }
 
 a { color: #61dafb; }
+
+.img { border-radius: 15px; }
 
 /*# sourceMappingURL=App.css.map */
