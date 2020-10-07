@@ -1,8 +1,13 @@
-.App{
+body{
     text-align: center;
     background-color: #282c34;
-    font: calc(10px + 2vmin);
+    font-size: calc(10px + 2vmin);
     color: #fff;
+}
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 a{
     color: #61dafb;
